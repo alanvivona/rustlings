@@ -1,3 +1,8 @@
+GET RUST ANALYZER TO WORK
+```
+cargo install rustlings-fix && rustlings-fix
+```
+
 READ:
 - [ ] https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html
 - [ ] https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html
